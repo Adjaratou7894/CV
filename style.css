@@ -9,10 +9,20 @@ html{
     width: 658px;
 
 }
+.thumb{
+    width:110px;
+     height:110px;
+    margin-left: 20px ;
+    border-radius:5%;
+    display:flex;
+    margin: auto;
+    BORDER: SOLID WHITE;
+
+}
 .add{
     border-color:#94a6b2;
 }
-#o{
+.o{
     margin-left: 5px;
 }
 
@@ -60,7 +70,7 @@ html{
     margin-right: 5px;
     font-style: bold;
 }
-#p{
+.ODC{
     font-weight: bold;
     padding-top: 2px;
 }
